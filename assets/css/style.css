@@ -19,6 +19,11 @@ body {
 }
 
 /* Main */
+main {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 .title {
     padding-top: 20px;
     padding-bottom: 20px;
