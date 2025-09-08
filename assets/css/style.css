@@ -36,6 +36,7 @@ main {
 .text-small {
     font-style: normal;
     font-weight: lighter;
+    font-size: small;
 }
 
 h1,
