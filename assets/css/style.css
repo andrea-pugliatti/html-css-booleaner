@@ -86,3 +86,25 @@ tbody>tr:nth-child(1),
 tbody>tr:nth-child(3) {
     background-color: #b1e4f2;
 }
+
+/* Footer */
+footer {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.footer-image {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+
+.top-text {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: white;
+    font-size: 1.5em;
+}
