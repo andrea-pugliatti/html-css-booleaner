@@ -68,12 +68,9 @@ table {
     margin-bottom: 20px;
 }
 
-tr {
-    width: 100%;
-}
-
-th{
-    width: 30%;
+th:first-child,
+th:nth-child(2) {
+    width: 200px;
 }
 
 thead {
@@ -82,7 +79,7 @@ thead {
     color: white;
 }
 
-tbody>tr:nth-child(1),
+tbody>tr:first-child,
 tbody>tr:nth-child(3) {
     background-color: #b1e4f2;
 }
