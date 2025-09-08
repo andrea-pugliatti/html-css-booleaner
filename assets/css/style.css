@@ -4,22 +4,28 @@ body {
 }
 
 /* Header */
+header {
+    width: auto;
+}
+
 #main-header {
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
-    background-size: 30%;
+    background-size: 330px;
     line-height: 100px;
 }
 
 #logo {
     height: 50px;
     width: auto;
+    padding-left: 100px;
     vertical-align: middle;
 }
 
 /* Main */
 main {
+    max-width: 1080px;
     padding-left: 100px;
     padding-right: 100px;
 }
