@@ -17,3 +17,39 @@ body {
     width: auto;
     vertical-align: middle;
 }
+
+/* Main */
+.title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
+
+.text-gray {
+    color: #808080;
+}
+
+.text-small {
+    font-style: normal;
+    font-weight: lighter;
+}
+
+h1,
+p,
+h5 {
+    margin: 0;
+}
+
+a {
+    font-style: normal;
+    color: #20a9e5;
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    font-size: 0.7em;
+    margin-bottom: 20px;
+}
