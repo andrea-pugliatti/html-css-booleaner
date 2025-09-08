@@ -1,0 +1,19 @@
+/* Common */
+body {
+    margin: 0 auto;
+}
+
+/* Header */
+#main-header {
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-size: 30%;
+    line-height: 100px;
+}
+
+#logo {
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+}
